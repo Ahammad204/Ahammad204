@@ -1,4 +1,4 @@
-![Banner Image](https://i.ibb.co/rm4R1Zs/424595215-864135885730981-2030439950510562143-n.jpg)
+![Banner Image](https://i.ibb.co.com/1trs10sq/Professional-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Kazi Ahammad Ullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
