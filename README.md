@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/ahammadcode">
-<img src="https://github.com/ahammadcode/ahammadcode/blob/main/Hi%2C%20I'm%20Kazi%20Ahammad%20Ullah.gif"
+<a href="https://github.com/Ahammad204">
+<img src="https://github.com/ahammadcode/Ahammad204/blob/main/Hi%2C%20I'm%20Kazi%20Ahammad%20Ullah.gif"
 alt="Kazi Ahammad Ullah" style="border-radius: 10px;" />
 </a>
 </p>
