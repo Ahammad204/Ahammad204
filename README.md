@@ -1,4 +1,4 @@
-![Banner Image](https://i.ibb.co.com/1trs10sq/Professional-Linked-In-Banner.png)
+![Banner Image](https://github.com/Ahammad204/Ahammad204/blob/main/Professional%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Kazi Ahammad Ullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
