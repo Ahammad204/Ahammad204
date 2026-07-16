@@ -1,7 +1,10 @@
 ![Banner Image](https://github.com/Ahammad204/Ahammad204/blob/main/Professional%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Kazi Ahammad Ullah</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+
+## 👨‍💻 About Me 
+I'm **Kazi Ahammad Ullah**, a passionate **Full Stack Developer** from Bangladesh. I enjoy building responsive, scalable, and user-friendly web applications that solve real-world problems. I love learning new technologies, writing clean code, and continuously improving my development skills by working on challenging projects. My goal is to become a professional Full Stack Software Engineer and contribute to impactful products. ---
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -9,15 +12,15 @@
 
 - 🔭 I’m currently working on [Study Together](https://github.com/Ahammad204/StudyTogether_Client)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 👨‍💻 My Best projects are available at my  [Portfolio](https://ahammadportfolio.netlify.app/)
 
-- 💬 Ask me about **React,html,css.javascript**
+- 💬 Ask me about **Web Development**
 
 - 📫 Contact me at **ahammadcode@gmail.com**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1mE4TfrUSdUT4neK6gINSN4OuLEanySg3/view?usp=drive_link)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1uXkBbcRZwLnTPhHSIdh8uNuiRQtdXsW0/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I have good sense of humor**
 
