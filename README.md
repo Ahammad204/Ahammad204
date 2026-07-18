@@ -101,7 +101,7 @@ I'm **Kazi Ahammad Ullah**, a passionate **Full Stack Developer** from Banglades
  - user can see any product details
  - user can adopt pet.
  - user can Donate in donate campaign section.
- - Live Link: https://phpetco20.web.app/
+ - Live Link: https://petcos.netlify.app/
 
 # Motex
  - User can add car and information by select brand.
@@ -111,4 +111,4 @@ I'm **Kazi Ahammad Ullah**, a passionate **Full Stack Developer** from Banglades
  - user can see any product details
  - user can buy product.
  - user can see what they buy in mycart section.
- - Live Link: https://ph-motex.web.app/
+ - Live Link: https://phmotex.netlify.app/
